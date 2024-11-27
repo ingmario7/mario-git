@@ -1,2 +1,2 @@
-const a = "Estamos en la rama f-a"
+const a = "Alguién hizo cambios en su rama y los agregó a master"
 console.log(a)
